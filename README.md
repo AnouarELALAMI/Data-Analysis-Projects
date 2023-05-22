@@ -11,3 +11,7 @@ This project combines data analysis and visualization. It serves as a preliminar
 * Visualisation= Histogram plot, Scatter plot, Heatmap
 * Library needed : Numpy, Pandas, Matplotlib and Seaborn
 
+# [Project2: ]()
+
+In this small project, the data was clean, which facilitated the focus on becoming familiar with the machine learning algorithm. The primary objective was to utilize the Linear Regression algorithm to develop a predictive model for solving a continuous data problem.
+
