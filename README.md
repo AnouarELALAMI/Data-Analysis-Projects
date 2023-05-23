@@ -18,6 +18,6 @@ In this small project, the data was clean, which facilitated the focus on becomi
 * Exploratory Data Analysis: Hex plot, Scatter plot, Pairplot and Linear plot.
 * Training and Testing Data through Sklearn
 * Evaluating the model: Mean Absolute Error, Mean Squared Error, Root Mean Squared Error. 
-# [Project3: ]()
+# [Project3: Loan (Decision Tree/ Random Forest]()
 # [Project4: House sales(artificial neural network)]()
 
