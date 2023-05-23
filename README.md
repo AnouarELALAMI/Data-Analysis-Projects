@@ -19,5 +19,7 @@ In this small project, the data was clean, which facilitated the focus on becomi
 * Training and Testing Data through Sklearn
 * Evaluating the model: Mean Absolute Error, Mean Squared Error, Root Mean Squared Error. 
 # [Project3: Loan (Decision Tree/ Random Forest]()
+This project focuses on predicting loan approvals using machine learning algorithms, specifically Decision Trees and Random Forest. 
+
 # [Project4: House sales(artificial neural network)]()
 
