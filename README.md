@@ -32,3 +32,5 @@ This project focuses on predicting house sales using an Artificial Neural Networ
 * Data Import and Cleaning: The project begins by importing the housing dataset and performing data cleaning procedures. This includes handling missing values, removing duplicates, and addressing outliers.
 * Exploratory Data Analysis: To gain insights into the housing data, the project employs exploratory data analysis techniques. Visualizations, such as Boxplots, Scatterplots, and Longitude-Latitude plots.
 * Library needed : Numpy, Pandas, Matplotlib and Seaborn, Keras.
+* Data Transformation and Feature Engineering: Certain data transformations are implemented to improve the model's performance.
+
