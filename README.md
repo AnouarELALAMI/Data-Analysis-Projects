@@ -23,6 +23,8 @@ This project focuses on predicting loan approvals using machine learning algorit
 * Data was taken from [Kaggle]
 * Data Exploratory and Visualisation: Countplot, Linear plot, Scatter plot
 * Training and Testing Data through Sklearn
+* Predictions and Evaluation of Decision Tree through the classification_report and theconfusion_matrix
+* Random Forest Algorithm: To enhance the predictive performance and overcome potential limitations of Decision Trees, the project incorporates the Random Forest algorithm.
 
 # [Project4: House sales(artificial neural network)]()
 
