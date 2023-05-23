@@ -33,4 +33,6 @@ This project focuses on predicting house sales using an Artificial Neural Networ
 * Exploratory Data Analysis: To gain insights into the housing data, the project employs exploratory data analysis techniques. Visualizations, such as Boxplots, Scatterplots, and Longitude-Latitude plots.
 * Library needed : Numpy, Pandas, Matplotlib and Seaborn, Keras.
 * Data Transformation and Feature Engineering: Certain data transformations are implemented to improve the model's performance.
+* Data Trainnig: The ANN model comprises four hidden layers with 20 neurons each, activated using the Rectified Linear Unit (ReLU) function.
+* Data Evaluation: Mean Squared Error (MSE), Mean Absolute Error (MAE) and Explained Variance Score
 
