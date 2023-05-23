@@ -27,5 +27,8 @@ This project focuses on predicting loan approvals using machine learning algorit
 * Random Forest Algorithm: To enhance the predictive performance and overcome potential limitations of Decision Trees, the project incorporates the Random Forest algorithm.
 
 # [Project4: House sales(artificial neural network)]()
-
+This project focuses on predicting house sales using an Artificial Neural Network (ANN) model.
 * Data was taken from [Kaggle](https://www.kaggle.com/datasets/shivachandel/kc-house-data)
+* Data Import and Cleaning: The project begins by importing the housing dataset and performing data cleaning procedures. This includes handling missing values, removing duplicates, and addressing outliers.
+* Exploratory Data Analysis: To gain insights into the housing data, the project employs exploratory data analysis techniques. Visualizations, such as Boxplots, Scatterplots, and Longitude-Latitude plots.
+* Library needed : Numpy, Pandas, Matplotlib and Seaborn, Keras.
