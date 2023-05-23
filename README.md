@@ -28,3 +28,4 @@ This project focuses on predicting loan approvals using machine learning algorit
 
 # [Project4: House sales(artificial neural network)]()
 
+* Data was taken from [Kaggle](https://www.kaggle.com/datasets/shivachandel/kc-house-data)
